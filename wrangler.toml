@@ -1,0 +1,8 @@
+name = "cloudflare-2020-general-engineering-assignment"
+type = "webpack"
+account_id = "dbf3c0dc380d40618cfb303015517ef2"
+workers_dev = true
+route = ""
+zone_id = ""
+webpack_config = "webpack.config.js"
+
